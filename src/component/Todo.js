@@ -1,5 +1,6 @@
 import React, { useContext } from 'react';
-import { Card, CardContent, Typography, Grid, IconButton, Tooltip, Chip } from '@mui/material';
+import { Card, CardContent, Typography, IconButton, Tooltip, Chip } from '@mui/material';
+import Grid from '@mui/material/Grid2';
 import CheckIcon from '@mui/icons-material/Check';
 import EditIcon from '@mui/icons-material/Edit';
 import DeleteIcon from '@mui/icons-material/Delete';
